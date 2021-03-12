@@ -7,16 +7,18 @@
         {
           "text": "new text item 1",
           "version": "v005",
+
           "type": "text-item"
         },
         {
-          "text": "updated text item updated",
+          "text": "updated text item updated         ",
           "version": "v005",
           "type": "text-item"
         },
         {
           "text": "new text item 2",
           "version": "v005",
+
           "type": "text-item"
         },
         {
