@@ -5,8 +5,4 @@ target/
 .settings/
 .classpath
 *.log
-**/.DS_Store
-trace.db/
-
-# folder to checkout other branches (git-worktree)
-.worktree
+.idea
