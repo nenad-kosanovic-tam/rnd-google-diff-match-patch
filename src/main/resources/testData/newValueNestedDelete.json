@@ -1,0 +1,20 @@
+{
+  "richTextFormat": [
+    {
+      "version": "v005",
+      "type": "text",
+      "items": [
+        {
+          "text": "new text item 1",
+          "version": "v005",
+          "type": "text-item"
+        },
+        {
+          "text": "new text item 2",
+          "version": "v005",
+          "type": "text-item"
+        }
+      ]
+    }
+  ]
+}
